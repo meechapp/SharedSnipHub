@@ -2,23 +2,23 @@
 A lightweight, customizable NavigationBar component built for SwiftUI apps.  
 It supports dynamic blur backgrounds, transparency toggles, safe area handling, and smooth scrolling effects — all without using UIKit navigation components.
 
-# ✨ Features  
-    ✅ Dynamic blur effect with real-time updates  
-    ✅ Smooth scroll-based offset handling  
-    ✅ Supports transparent or solid backgrounds  
-    ✅ Adjustable height and safe area management  
-    ✅ Fully customizable content via @ViewBuilder  
-    ✅ SwiftUI architecture  
+## ✨ Features  
+- Dynamic blur effect with real-time updates  
+- Smooth scroll-based offset handling  
+- Supports transparent or solid backgrounds  
+- Adjustable height and safe area management  
+- Fully customizable content via @ViewBuilder  
+- SwiftUI architecture  
 
-# 🛠️ Built With  
-    SwiftUI  
-    Combine  
-    UIKit (for minimal blur layer control)
+## 🛠️ Built With  
+- SwiftUI  
+- Combine  
+- UIKit (for minimal blur layer control)
     
-# iPhone Screen Recording Example
+## iPhone Screen Recording Example
 
     Here’s a demo of the iPhone app in action:
 
-[![Screen Recording](https://img.youtube.com/vi/cZGqwnIfZzc/0.jpg)](https://youtube.com/shorts/cZGqwnIfZzc?feature=share)
+![Screen Recording](https://github.com/meechapp/SharedSnipHub/Gifs/BlurNavigation.gif)
     
     

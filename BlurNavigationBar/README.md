@@ -1,4 +1,4 @@
-# 📱 CustomNavigationBar for SwiftUI
+# CustomNavigationBar for SwiftUI
 A lightweight, customizable NavigationBar component built for SwiftUI apps.  
 It supports dynamic blur backgrounds, transparency toggles, safe area handling, and smooth scrolling effects — all without using UIKit navigation components.
 
@@ -15,9 +15,7 @@ It supports dynamic blur backgrounds, transparency toggles, safe area handling, 
 - Combine  
 - UIKit (for minimal blur layer control)
     
-## iPhone Screen Recording Example
-
-    Here’s a demo of the iPhone app in action:
+## 📱 iPhone Screen Recording Example
 
 <img align="center" src="Preview/BlurNavigationBar.gif" width="280">
     

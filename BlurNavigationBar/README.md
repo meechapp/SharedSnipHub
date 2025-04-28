@@ -19,6 +19,6 @@ It supports dynamic blur backgrounds, transparency toggles, safe area handling, 
 
     Here’s a demo of the iPhone app in action:
 
-<img align="left" src="SharedSnipHub/Gifs/BlurNavigation.gif" width="280">
+<img align="center" src="BlurNavigation.gif" width="280">
     
     

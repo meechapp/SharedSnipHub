@@ -19,6 +19,6 @@ It supports dynamic blur backgrounds, transparency toggles, safe area handling, 
 
     Here’s a demo of the iPhone app in action:
 
-![Screen Recording](https://github.com/meechapp/SharedSnipHub/Gifs/BlurNavigation.gif)
+<img align="left" src="SharedSnipHub/Gifs/BlurNavigation.gif" width="280">
     
     
